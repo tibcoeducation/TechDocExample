@@ -1,11 +1,13 @@
-# Documentation for: DOC System
+# Documentation for: DOC System v2
 
 ---
 
-A DOC EXAMPLE
+A DOC EXAMPLE FOR TESTING CHANGES IN GIT
+
+test of lower case 
 
 ---
 
-**Introduction to Doc Example**
+**Introduction to Doc Example v2**
 
-Example of a description for Doc Exampl
+Second Example of a description for Doc Example v2
